@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://teseu.github.io/devChalleng-404">
+    <a href="https://teseu.github.io/devChalleng-team/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/teseu/devChalleng-404">
+    <a href="https://github.com/teseu/devChalleng-team">
       Solution
     </a>
     <span> | </span>
